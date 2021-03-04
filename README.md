@@ -1,7 +1,7 @@
 ### GOLANG操作Mysql示例  
 1 官方参考文献地址:  
 ```shell
-https://github.com/go-sql-driver/mysql#protocol
+https://github.com/go-sql-driver/mysql
 ```
 2 databases.sql文件是新建数据库及其表的schema;  
 
